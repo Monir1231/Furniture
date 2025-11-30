@@ -36,7 +36,7 @@ const Hero = () => {
       </div>
 
       {/* buttom blur effect  */}
-      <div className=" absolute inset-x-0 bottom-0 h-2/4 -mg-2   from-white/90 via-transparent to-transparent blue-sm" />
+      <div className=" absolute inset-x-0 bottom-0 h-2/4 -mg-2 bg-gradient-to-t  from-white/80 via-transparent to-transparent blue-sm" />
 
       {/* hover tooltip box  */}
     
